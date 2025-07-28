@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OneDrive - American International University-Bangladesh\\Desktop\\FinalTerm c#\\Association(One to Many)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9541CF39-7CAD-4493-B435-A5307A497575}|Association(One to Many).csproj|e:\\onedrive - american international university-bangladesh\\desktop\\finalterm c#\\association(one to many)\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9541CF39-7CAD-4493-B435-A5307A497575}|Association(One to Many).csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9541CF39-7CAD-4493-B435-A5307A497575}|Association(One to Many).csproj|E:\\OneDrive - American International University-Bangladesh\\Desktop\\FinalTerm c#\\Association(One to Many)\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9541CF39-7CAD-4493-B435-A5307A497575}|Association(One to Many).csproj|solutionrelative:assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9541CF39-7CAD-4493-B435-A5307A497575}|Association(One to Many).csproj|E:\\OneDrive - American International University-Bangladesh\\Desktop\\FinalTerm c#\\Association(One to Many)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9541CF39-7CAD-4493-B435-A5307A497575}|Association(One to Many).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "E:\\OneDrive - American International University-Bangladesh\\Desktop\\FinalTerm c#\\Association(One to Many)\\Assignment.cs",
+              "RelativeDocumentMoniker": "Assignment.cs",
+              "ToolTip": "E:\\OneDrive - American International University-Bangladesh\\Desktop\\FinalTerm c#\\Association(One to Many)\\Assignment.cs",
+              "RelativeToolTip": "Assignment.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA7wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:22:13.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\OneDrive - American International University-Bangladesh\\Desktop\\FinalTerm c#\\Association(One to Many)\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "E:\\OneDrive - American International University-Bangladesh\\Desktop\\FinalTerm c#\\Association(One to Many)\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:33:28.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OneDrive - American International University-Bangladesh\\Desktop\\FinalTerm c#\\Association(One to Many)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\OneDrive - American International University-Bangladesh\\Desktop\\FinalTerm c#\\Association(One to Many)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T15:21:31.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
